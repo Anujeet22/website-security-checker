@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+Users.json
+malicious_phish.csv
+error.log
+*.pkl
